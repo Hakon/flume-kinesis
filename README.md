@@ -5,7 +5,7 @@
 To get started, clone the repository and build the package (Requires Maven)
 
 ```
-git clone https://github.com/Hakon/flume-kinesis.git
+git clone https://github.com/pdeyhim/flume-kinesis.git
 cd flume-kinesis
 mvn package
 ```
