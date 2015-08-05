@@ -44,9 +44,9 @@ Changes: Adapted pom from https://github.com/plumbee/flume-sqs-source to fit flu
     </properties>
 
     <scm>
-        <url>scm:git:https://github.com/Hakon/flume-kinesis.git</url>
-        <developerConnection>scm:git:https://github.com/Hakon/flume-kinesis.git</developerConnection>
-        <connection>scm:git:hhttps://github.com/Hakon/flume-kinesis.git</connection>
+        <url>scm:git:https://github.com/pdeyhim/flume-kinesis.git</url>
+        <developerConnection>scm:git:https://github.com/pdeyhim/flume-kinesis.git</developerConnection>
+        <connection>scm:git:hhttps://github.com/pdeyhim/flume-kinesis.git</connection>
     </scm>
 
     <licenses>
